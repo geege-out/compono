@@ -48,6 +48,7 @@ text-align: center;
 }
 
 
+
 .transy{
 	width: 100%;
 height: 100%;
@@ -115,11 +116,6 @@ background-size: cover;
 
 
 
-
-
-
-
-
 .form{
 	width: 40%;
 	padding: 0 30%;
@@ -165,8 +161,12 @@ background-size: cover;
 
 .submit{
 	width: 20%;
-	float: left;
-	margin-left: -17%;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 10px;
+  font-family: 'Lora';
+  font-size: 20px;
+  background: #2DB200;
 }
 
 
